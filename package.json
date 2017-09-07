@@ -1,0 +1,22 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "my to do restful api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testthetodo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tweetzal/toDoApi.git"
+  },
+  "keywords": [
+    "todorestapi"
+  ],
+  "author": "mo mulla (@tweetzal)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tweetzal/toDoApi/issues"
+  },
+  "homepage": "https://github.com/tweetzal/toDoApi#readme"
+}
