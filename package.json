@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tweetzal/toDoApi/issues"
   },
-  "homepage": "https://github.com/tweetzal/toDoApi#readme"
+  "homepage": "https://github.com/tweetzal/toDoApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  }
 }
